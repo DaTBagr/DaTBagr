@@ -19,4 +19,4 @@ Features a lovely little star rating component that provides some interactivity 
 # ⚔️ [RS-LIKE](https://github.com/DaTBagr/RSLike2) A new genre of oldschool runescape-like video game? Probably not.
 But a man can dream. A little passion project of mine I started many years ago and work on whenever I have the time. 
 Taking some of the more fundamental aspects of OSRS and transporting them into Unity in my own little way.
-Particularly proud of the mind melter that is pathfinding as it is the first complex system I ever implemented.
+Particularly proud of the mind melter that is pathfinding, as it is the first complex system I ever implemented.
