@@ -7,8 +7,7 @@ I'm a software Developer based in Brighton with a background in Graphic Design �
 [Here's](https://calyeates.com) a link to my Portfolio and my [LinkedIn](https://www.linkedin.com/in/callum-yeates-888470194) if you need to reach me.
 
 # 🍕 [Big Pizza Co.](https://github.com/DaTBagr/Big-Pizza-Co.) Pizza delivery... Delicious.
-An online storefront for browsing and ordering Pizza's to your house. Uses Vite, Tailwind and Redux to manage ordering and style. <br/>
-*Still in development*
+An online storefront for browsing and ordering Pizza's to your house. Uses Vite, Tailwind and Redux to manage ordering and style.
 
 # ⚔️ [RS-LIKE](https://github.com/DaTBagr/RSLike2) A new genre of oldschool runescape-like video game? Probably not.
 But a man can dream. A little passion project of mine I started many years ago and work on whenever I have the time. 
